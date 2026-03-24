@@ -1,1 +1,1 @@
-**USB to eMMC Interface Board	**
+** USB Data Logging and Storage Board **
